@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "64fcb3bd3d578ac0e23a0748"
+  },
+  "created_at": {
+    "$date": "2023-09-09T18:04:45.642Z"
+  },
+  "title": "Seguro de vida em grupo e acidentes pessoais",
+  "body": "A Vuit Seguros é uma corretora que assessora as empresas, fornecendo seguro de vida em grupo e acidentes pessoais, permitindo que economizem tempo, esforço e dinheiro.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcb4fd819031e66e90caf5"
+  },
+  "created_at": {
+    "$date": "2023-09-09T18:10:05.455Z"
+  },
+  "title": "Seguro de saúde, dental e telemedicina",
+  "body": "Seguindo os objetivos dos empregadores, somos capazes de propor acordos que atendam às expectativas dos colaboradores por sua empresa. Juntos encontramos as melhores soluções para seguro saúde, odontológico e telemedicina, um dos benefícios mais desejados pelos colaboradores. Ajudamos as empresas a encontrar uma solução nesta área, fornecendo planos de qualidade, gerenciando a demanda e acompanhamento de pós-venda, fortalecendo o comprometimento dos funcionários com a empresa.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcb525647dcbdc33e211c8"
+  },
+  "created_at": {
+    "$date": "2023-09-09T18:10:45.148Z"
+  },
+  "title": "Responsabilidade civil e prestação de serviços",
+  "body": "Os seguros de responsabilidade civil geral, prestação de serviços, profissional, E&O e D&O, não são mais uma opção, mas sim uma necessidade, trazendo tranquilidade exigida pelos seus clientes e principalmente, protegendo os seus negócios. Estar preparado para o inesperado é importante para o sucesso da sua empresa. O seguro pode preencher lacunas na cobertura, ajudar a gerenciar riscos e garantir a continuidade dos negócios.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcb537647dcbdc33e211ca"
+  },
+  "created_at": {
+    "$date": "2023-09-09T18:11:03.346Z"
+  },
+  "title": "Seguro garantia e Garantia Judicial",
+  "body": "Através da VUIT Seguros, você tem as garantias que precisa para fazer seu trabalho. Nossos clientes estão em primeiro lugar, e nossos profissionais são projetados para ajudar nas suas necessidades. Serviços especializados como garantia de proposta, garantia de execução, antecipação de pagamento ou garantia judicial, liberando os recursos imobilizados e este ajudando no fluxo de caixa da sua empresa.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcb549647dcbdc33e211cc"
+  },
+  "created_at": {
+    "$date": "2023-09-09T18:11:21.150Z"
+  },
+  "title": "Crédito consignado VUIT Cred",
+  "body": "Use sua empresa para oferecer o benefício de crédito consignado ao seu funcionário, com a facilidade de desconto em folha, juros a partir de 1,89% ao mês, parcelamento em até 48x e o melhor de tudo: após 3 dias do primeiro contanto o recurso já pode estar disponível na conta do colaborador.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fcb559647dcbdc33e211ce"
+  },
+  "created_at": {
+    "$date": "2023-09-09T18:11:37.434Z"
+  },
+  "title": "VUIT benefícios: vale alimentação, refeição e combustível",
+  "body": "Através da parceria com a Sodexo, maior rede credenciada de Vale Alimentação e Vale Refeição do Brasil, a Vuit benefícios tem como objetivo expandir o leque de produtos oferecidos aos seus clientes. É bom para o seu RH. Ao oferecer o vale-alimentação e o vale-refeição Sodexo, sua empresa pode receber isenção de encargos sociais e descontos no IR previstos pelo PAT. Faça a gestão online dos benefícios com praticidade, segurança e controle de gastos. É bom para os seus colaboradores. Seus funcionários têm acesso a opções de alimentação saudável. Os cartões de benefícios são aceitos em estabelecimentos físicos e aplicativos de entrega. É mais qualidade de vida para todos.",
+  "__v": 0
+}]
